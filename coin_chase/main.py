@@ -10,7 +10,7 @@
 # 25 points to turn the lights back on #
 # and get rid of Piru.                 #
 ########################################
-# Laurens Veltman 12-2021
+# darkprinslau 12-2021
 
 #Import and initialize pygame
 import pygame
